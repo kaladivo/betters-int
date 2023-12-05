@@ -1,0 +1,20 @@
+.root-container {
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: stretch;
+}
+
+.group-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.divider {
+    height: 1.66rem;
+    width: 1.5px;
+    background-color: rgba(191, 194, 212, 0.3);
+    margin: 0 1rem;
+}
